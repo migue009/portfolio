@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "¿Qué es?",
+        "img": "./img/programacion.jpg",
+        "desc": "La programación es el proceso de escribir instrucciones que una computadora puede entender y ejecutar. Estas instrucciones se escriben en un lenguaje de programación y le dicen a la computadora qué hacer, paso a paso."
+    },
+    {
+        "id": 2,
+        "title": "¿Para que se usa?",
+        "img": "./img/programacion2.jpg",
+        "desc": "Los lenguajes de programación son la base de casi todo lo que usamos digitalmente hoy en día. Entre sus aplicaciones más comunes destacan: Desarrollo de aplicaciones móviles y web, Creación de videojuegos, Análisis de datos e inteligencia de negocio,  Programación de sistemas de inteligencia artificial y aprendizaje automático, Automatización de tareas repetitivas."
+    },
+    {
+        "id": 3,
+        "title": "leguajes mas usados",
+        "img": "./img/programacion3.jpg",
+        "desc": "Los lenguajes de programación más utilizados y para qué sirven exactamente.\nEsta lista no representa una clasificación, sino que solo enumera los lenguajes más usados.\nSegún el Índice TIOBE de 2025, que clasifica los lenguajes de programación más populares del mundo, los más utilizados actualmente incluyen:"
+    }
+]
